@@ -1,0 +1,12 @@
+.social-links {
+    display: flex; /* Makes icons appear side by side */
+    gap: 20px; /* Adds space between the icons */
+    align-items: center; /* Aligns icons and text properly */
+}
+.social-links a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}   
